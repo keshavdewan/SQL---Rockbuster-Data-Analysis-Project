@@ -1,5 +1,5 @@
 # For this command I have figured out the - 
-# a.Count of the movies; b.	Average rental rate; c. Maximum rental duration and minimum rental duration
+# a. Count of the movies; b. Average rental rate; c. Maximum rental duration and minimum rental duration
 # Commands used - COUNT, AVG, MAX, MIN, WHERE, IN, GROUP BY
 
 SELECT rating,
