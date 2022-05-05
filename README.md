@@ -12,6 +12,12 @@ The following repository uses **SQL programming language** to perform a query ba
 - Average Rental Duration for the videos
 - Top 10 Countries in terms of numberslyses
 
+# Analysis Criteria
+- Used moderately complex SQL queries to answer business questions - 'Join', 'Group By', 'Aggregation', 'Subqueries', 'CTE' etc.
+- Presented results by using Excel and creating Data Dictionaries 
+- Presented SQL results by creating visualization on Tableau
+
+
 # Folders within this repository
 - **Analysis Codes**, SQL Codes used to perform specific functions for analysis
 - **Analysis Report**, Finaly reports that includes data insights & recommendations shared with the client
